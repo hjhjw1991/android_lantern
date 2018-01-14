@@ -1,2 +1,5 @@
 # android_lantern
-android client. go through the forbidden
+Android client. go through the forbidden
+
+## reference
+lantern: [official site](https://github.com/getlantern/lantern/releases/tag/latest)
